@@ -1,0 +1,236 @@
+[
+  {
+    "_id": "645e0d39cf42f741ace85bf1",
+    "group": [
+      "141А(1)",
+      "141А(1)Б(2)",
+      "141Б(2)"
+    ],
+    "dayOfWeek": "Понеділок",
+    "numOfLesson": 1,
+    "numOfWeek": [
+      1
+    ],
+    "subject": {
+      "name": "Тереотичні основи кібернетики",
+      "lecture": true,
+      "teacher": "проф. Дрінь Я.М",
+      "numHull": 9,
+      "numberOffice": 3
+    }
+  },
+  {
+    "_id": "645e0d39b6d8985b040e880d",
+    "group": [
+      "141А(1)",
+      "141А(1)Б(2)",
+      "141Б(2)"
+    ],
+    "dayOfWeek": "Четвер",
+    "numOfLesson": 1,
+    "numOfWeek": [
+      1,
+      2
+    ],
+    "subject": {
+      "name": "Фізика",
+      "lecture": true,
+      "teacher": "доц. Валь О.Д.",
+      "numHull": 9,
+      "numberOffice": 3
+    }
+  },
+  {
+    "_id": "645e0d39029e97de8ff81901",
+    "group": [
+      "241А(1)"
+    ],
+    "dayOfWeek": "П'ятниця",
+    "numOfLesson": 2,
+    "numOfWeek": [
+      1
+    ],
+    "subject": {
+      "name": "Моделювання систем",
+      "lecture": false,
+      "teacher": "доц. Антонюк С.В.",
+      "numHull": 8,
+      "numberOffice": 213
+    }
+  },
+  {
+    "_id": "645e0d39b2cfe2b9b9cddcab",
+    "group": [
+      "441",
+      "441СК"
+    ],
+    "dayOfWeek": "Середа",
+    "numOfLesson": 6,
+    "numOfWeek": [
+      1,
+      2
+    ],
+    "subject": {
+      "name": "Мережі та потоки",
+      "lecture": false,
+      "teacher": "доц. Руснак М.  А.",
+      "numHull": 8,
+      "numberOffice": 211
+    }
+  },
+  {
+    "_id": "645e0d3976ca5047aeb2694c",
+    "group": [
+      "241Б(2)"
+    ],
+    "dayOfWeek": "Вівторок",
+    "numOfLesson": 1,
+    "numOfWeek": [
+      1,
+      2
+    ],
+    "subject": {
+      "name": "Програмування мовою Java",
+      "lecture": false,
+      "teacher": "асист. Кириченко О.О.",
+      "numHull": 8,
+      "numberOffice": 216
+    }
+  },
+  {
+    "_id": "645e0d39cb9eb2de0abf44cb",
+    "group": [
+      "341(1)",
+      "341(2)",
+      "341ск(1)",
+      "341ск(2)"
+    ],
+    "dayOfWeek": "Середа",
+    "numOfLesson": 1,
+    "numOfWeek": [
+      1
+    ],
+    "subject": {
+      "name": "Сучасна теорія керування",
+      "lecture": true,
+      "teacher": "асист. Коцур М.П.",
+      "numHull": 8,
+      "numberOffice": 224
+    }
+  },
+  {
+    "_id": "645e0d39cb9eb2de0abf44cb",
+    "group": [
+      "341ск(1)",
+      "341ск(2)"
+    ],
+    "dayOfWeek": "Середа",
+    "numOfLesson": 3,
+    "numOfWeek": [
+      1, 2
+    ],
+    "subject": {
+      "name": "Моделювання систем",
+      "lecture": true,
+      "teacher": "асист. Антонюк С.В.",
+      "numHull": 8,
+      "numberOffice": 224
+    }
+  },
+  {
+    "_id": "645e0d39fc143e939265a279",
+    "group": [
+      "341(1)",
+      "341(2)"
+    ],
+    "dayOfWeek": "Понеділок",
+    "numOfLesson": 4,
+    "numOfWeek": [
+      1,
+      2
+    ],
+    "subject": {
+      "name": "Технологія створення програмних продуктів",
+      "lecture": true,
+      "teacher": "доц. Стецько Ю.П.",
+      "numHull": 8,
+      "numberOffice": 224
+    }
+  },
+  {
+    "_id": "645e0d39cd295280fa81a218",
+    "group": [
+      "441",
+      "441СК"
+    ],
+    "dayOfWeek": "Понеділок",
+    "numOfLesson": 5,
+    "numOfWeek": [
+      1
+    ],
+    "subject": {
+      "name": "Філософія",
+      "lecture": true,
+      "teacher": "Руснак І.Г",
+      "numHull": 9,
+      "numberOffice": 3
+    }
+  },
+  {
+    "_id": "645e0d39b2cfe2b9b9cddcab",
+    "group": [
+      "441",
+      "441СК"
+    ],
+    "dayOfWeek": "Четвер",
+    "numOfLesson": 3,
+    "numOfWeek": [
+      1,
+      2
+    ],
+    "subject": {
+      "name": "Мережі та потоки",
+      "lecture": false,
+      "teacher": "доц. Руснак М.  А.",
+      "numHull": 8,
+      "numberOffice": 211
+    }
+  },
+  {
+    "_id": "645e0d3925a18ece9e679478",
+    "group": [
+      "541м(2)"
+    ],
+    "dayOfWeek": "П'ятниця",
+    "numOfLesson": 3,
+    "numOfWeek": [
+      2
+    ],
+    "subject": {
+      "name": "Методика Викладання Комп'ютерних Наук у ЗВО",
+      "lecture": false,
+      "teacher": "проф. Дрінь Я.М.",
+      "numHull": 8,
+      "numberOffice": 212
+    }
+  },
+  {
+    "_id": "645e0d39268e3847a8378458",
+    "group": [
+      "541м(1)"
+    ],
+    "dayOfWeek": "П'ятниця",
+    "numOfLesson": 4,
+    "numOfWeek": [
+      1
+    ],
+    "subject": {
+      "name": "Методика Викладання Комп'ютерних Наук у ЗВО",
+      "lecture": false,
+      "teacher": "проф. Дрінь Я.М.",
+      "numHull": 8,
+      "numberOffice": 212
+    }
+  }
+]
+

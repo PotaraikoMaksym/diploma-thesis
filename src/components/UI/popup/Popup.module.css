@@ -1,0 +1,24 @@
+.popupContainer {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: linear-gradient(180deg, rgba(16,0,255,1) 30%, rgba(255,218,0,1) 70%);
+    padding: 20px;
+    border-radius: 30px;
+    max-width: 15%;
+}
+
+.closePopupButton {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    border-radius: 70px;
+    font-size: 20px;
+    border: none;
+    background: none;
+    color: #fff;
+}
+
+.popupText {
+    color: #fff;
+}
